@@ -1,6 +1,0 @@
-"-specs=C:/Users/amane/Documents/Github_local/realtime/esp32-realtime-safety-supervisor/build/bootloader/specs/picolibc.specs"
--Wno-frame-address
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
